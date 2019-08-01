@@ -1,15 +1,14 @@
 ﻿<Properties StartupConfiguration="{18AE96F1-CAEC-4D4C-B9D3-42EAAB67606D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Polymorphism.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WhyProperties.cs">
     <Files>
-      <File FileName="Inheritance.cs" Line="132" Column="18" />
-      <File FileName="Polymorphism.cs" Line="4" Column="1" />
+      <File FileName="WhyProperties.cs" Line="63" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExerciseAppCsharp" expanded="True">
             <Node name="ExerciseAppCsharp" expanded="True">
-              <Node name="Polymorphism.cs" selected="True" />
+              <Node name="WhyProperties.cs" selected="True" />
             </Node>
           </Node>
         </State>

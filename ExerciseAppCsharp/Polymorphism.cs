@@ -48,7 +48,7 @@ public class TemporaryEmployee : Employee
 
 class Polymorphism
 {
-    public static void Main()
+    public static void Main8()
     {
         Employee[] employees = new Employee[4];
 

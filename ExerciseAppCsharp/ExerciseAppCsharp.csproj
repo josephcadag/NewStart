@@ -41,9 +41,8 @@
     <Compile Include="StaticInstanceClass.cs" />
     <Compile Include="Inheritance.cs" />
     <Compile Include="Polymorphism.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="app.config" />
+    <Compile Include="MethodOverloading.cs" />
+    <Compile Include="WhyProperties.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
