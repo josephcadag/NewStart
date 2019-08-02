@@ -1,0 +1,5 @@
+/Users/josephchristophercadag/Desktop/GithubFiles/NewStart/NewStart/ExerciseAppCsharp/bin/Debug/ExerciseAppCsharp.exe
+/Users/josephchristophercadag/Desktop/GithubFiles/NewStart/NewStart/ExerciseAppCsharp/bin/Debug/ExerciseAppCsharp.pdb
+/Users/josephchristophercadag/Desktop/GithubFiles/NewStart/NewStart/ExerciseAppCsharp/obj/x86/Debug/ExerciseAppCsharp.csproj.CoreCompileInputs.cache
+/Users/josephchristophercadag/Desktop/GithubFiles/NewStart/NewStart/ExerciseAppCsharp/obj/x86/Debug/ExerciseAppCsharp.exe
+/Users/josephchristophercadag/Desktop/GithubFiles/NewStart/NewStart/ExerciseAppCsharp/obj/x86/Debug/ExerciseAppCsharp.pdb
