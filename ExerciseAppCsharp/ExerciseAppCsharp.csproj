@@ -43,6 +43,8 @@
     <Compile Include="Polymorphism.cs" />
     <Compile Include="MethodOverloading.cs" />
     <Compile Include="WhyProperties.cs" />
+    <Compile Include="Properties.cs" />
+    <Compile Include="Structs.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
