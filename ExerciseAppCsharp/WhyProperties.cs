@@ -11,7 +11,8 @@ class WhyProperties
     {
         private int _id;
         private string _name;
-        private int _passingGrade = 70;
+        private int _passingGrade = 75;
+        private int _grade;
 
         //For ID
         public void SetId(int Id)
@@ -58,13 +59,29 @@ class WhyProperties
         {
             return this._passingGrade;
         }
+
+        public void Grade()
+        {
+            Console.WriteLine("Enter grade: ");
+            int grade = Convert.ToInt32(Console.ReadLine());
+
+            if(grade > 74)
+            {
+                Console.WriteLine("Passed");
+            }
+            else
+            {
+                Console.WriteLine("Failed");
+            }
+        }
     }
 
-    public static void Main()
+    public static void Main9()
     {
         Student S1 = new Student();
         S1.SetId(190023);
         S1.SetName("joseph cadag");
+        S1.Grade();
 
         Console.WriteLine("ID = {0}", S1.GetId());
         Console.WriteLine("Name = {0}", S1.GetName());
