@@ -37,7 +37,7 @@ class Structs
         }
     }
 
-    public static void Main()
+    public static void Main11()
     {
         Costumer C1 = new Costumer();
         C1.Id = 111;

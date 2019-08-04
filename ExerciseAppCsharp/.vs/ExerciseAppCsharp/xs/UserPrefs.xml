@@ -1,15 +1,14 @@
 ﻿<Properties StartupConfiguration="{18AE96F1-CAEC-4D4C-B9D3-42EAAB67606D}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Structs.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Interfaces.cs">
     <Files>
-      <File FileName="Properties.cs" Line="68" Column="6" />
-      <File FileName="Structure.cs" Line="58" Column="2" />
+      <File FileName="Interfaces.cs" Line="34" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ExerciseAppCsharp" expanded="True">
             <Node name="ExerciseAppCsharp" expanded="True">
-              <Node name="Structs.cs" selected="True" />
+              <Node name="Interfaces.cs" selected="True" />
             </Node>
           </Node>
         </State>
